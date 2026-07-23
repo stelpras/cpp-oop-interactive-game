@@ -2,11 +2,11 @@
 
 Team Members:
 
-Name	Student ID	Email
+Name	Student
 
-Stylianos Prasianakis	1115201700233	sdi1700233@di.uoa.gr	
+Stylianos Prasianakis
 
-Georgios Pantelakis	1115201900140	sdi1900140@di.uoa.gr	
+Georgios Pantelakis	
 
 Contribution of Each Student
 
