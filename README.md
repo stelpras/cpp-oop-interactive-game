@@ -3,8 +3,11 @@
 Team Members:
 
 Name	Student ID	Email	Year
-Stylianos Prasianakis	1115201700233	sdi1700233@di.uoa.gr	6th year
-Georgios Pantelakis	1115201900140	sdi1900140@di.uoa.gr	4th year
+
+Stylianos Prasianakis	1115201700233	sdi1700233@di.uoa.gr	
+
+Georgios Pantelakis	1115201900140	sdi1900140@di.uoa.gr	
+
 Contribution of Each Student
 
 The assignment was mostly done as a team, with both of us working together on the same parts of the exercise. There was constant communication regarding the progress of the code (what needed to be done next), and both of us always had oversight of the whole project.
