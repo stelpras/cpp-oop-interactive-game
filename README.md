@@ -58,5 +58,5 @@ Difficulty Rating
 7/10
 
 Links
-GitHub: https://github.com/stelpras/OOP-Project
-YouTube: https://www.youtube.com/watch?v=6rYNRfW6lgQ
+
+GitHub: [https://github.com/stelpras/OOP-Project](https://github.com/stelpras/cpp-oop-interactive-game)
