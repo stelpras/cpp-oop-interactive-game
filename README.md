@@ -2,7 +2,7 @@
 
 Team Members:
 
-Name	Student ID	Email	Year
+Name	Student ID	Email
 
 Stylianos Prasianakis	1115201700233	sdi1700233@di.uoa.gr	
 
